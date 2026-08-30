@@ -1,7 +1,7 @@
 {
   "versionCode": 6,
   "versionName": "1.4",
-  "tag": "v1.5.18",
+  "tag": "v1.1.0",
   "apkUrl": "https://raw.githubusercontent.com/zing-off/zing_update/main/Zing_Captain.apk",
   "isMandatory": true,
   "mandatoryVersionCode": 5,
@@ -22,9 +22,9 @@
     {
       "versionCode": 6,
       "versionName": "1.4",
-      "tag": "v1.5.18",
+      "tag": "v1.1.0",
       "url": "https://raw.githubusercontent.com/zing-off/zing_update/main/Zing_Captain.apk"
     }
   ],
-  "updatedAt": "2026-08-28T16:28:05.557Z"
+  "updatedAt": "2026-08-30T10:47:27.536Z"
 }
